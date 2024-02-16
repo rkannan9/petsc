@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+config/pypi/__init__.py
+petsc.egg-info/PKG-INFO
+petsc.egg-info/SOURCES.txt
+petsc.egg-info/dependency_links.txt
+petsc.egg-info/not-zip-safe
+petsc.egg-info/top_level.txt
